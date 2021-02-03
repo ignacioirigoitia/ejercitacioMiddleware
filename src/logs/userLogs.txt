@@ -1,0 +1,11 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin?user=
+El usuario ingreso a la ruta: /admin?user=Ignacio
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin?user=Ignacio
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin?user=ignacio
